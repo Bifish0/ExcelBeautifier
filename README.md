@@ -87,7 +87,7 @@ ExcelBeautifier 是一款专为提升表格文件颜值而设计的工具，它�
 
 **一只鱼（Bifish）**
 
-- GitHub: [@Bifish0](https://github.com/Bifish0)
+- GitHub: [@Bifishone](https://github.com/Bifishone)
 - 专注于开发提升办公效率的小工具
 
 ------
